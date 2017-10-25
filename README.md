@@ -7,6 +7,6 @@ In my project, I have analyzed the network traffic and also found the locations 
 
 The scripting languages and tools used here include -
 1. Python - For developing the script and the module for interacting with the Internet.
-2. DPKT Module - for Packet Decoding and is also used for parsing Wireshark Packet.
+2. DPKT Module - For Packet Decoding and is also used for parsing Wireshark Packet.
 3. Wireshark - For analyzing the traffic. It is a cross-platform, open source analyzer.
 4. PyGeoIP - A Python library that links IP addresses to their geographical locations.
