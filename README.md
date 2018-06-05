@@ -4,7 +4,7 @@ In today's fast moving and well-connected world, Network Security has evolved as
 
 In my project, I have analyzed the network traffic and also found the **locations** of Blacklisted websites along with their **geographical indications**. I have found the locations of the users who are accessing the blacklisted websites and then depicted the locations visually on the World Map, using Google Map API.
 
-The scripting languages and tools used here include :
+The scripting languages and tools used here include:
 
 1. **Python** - For developing the script and the module for interacting with the Internet.
 2. **DPKT Module** - For Packet Decoding and is also used for parsing Wireshark Packet.
