@@ -8,5 +8,6 @@ The scripting languages and tools used here include:
 
 1. **Python** - For developing the script and the module for interacting with the Internet.
 2. **DPKT Module** - For Packet Decoding and is also used for parsing Wireshark Packet.
-3. **Wireshark** - For analyzing the traffic. It is a cross-platform, open source analyzer.
+3. **Wireshark** - It is a cross-platform, open source analyzer for traffic.
 4. **PyGeoIP** - A Python library that links IP addresses to their geographical locations.
+
